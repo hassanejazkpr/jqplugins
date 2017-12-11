@@ -29,10 +29,13 @@ below is the example usage:
 ```
 Supported themes:
 
-light
-dark
-success
-info
-warning
-danger
+```
+1) light
+2) dark
+3) success
+4) info
+5) warning
+6) danger
+```
+
 contact me on "hassanejazkpr@gmail.com" for any suggestion or question.
